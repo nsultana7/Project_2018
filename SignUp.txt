@@ -1,2 +1,5 @@
 Daniel Kaukinen: Project Lead
-Kaitlyn Dennison: 1. Advertising 2. Documentation 3. Website ??
+Kaitlyn Dennison: 
+1. Advertising - Commercial and professional pitch presentations
+2. Food connoisseur and list of buffet/consumables  
+3. Database on all users and employees, documentation of users. Security.
