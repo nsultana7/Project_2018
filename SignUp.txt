@@ -1,2 +1,5 @@
 Daniel Kaukinen: Project Lead
-Ngoc Minh Duong: Hydroponics Vegetable Growing Greenhouse (1), Fresh Water Diving Environment(2), Cafeteria (3).
+Ngoc Minh Duong: 
+1. Advertisements: Poster.
+2. Website.
+3. Employees and Users Database. 
