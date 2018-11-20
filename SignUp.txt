@@ -1,5 +1,10 @@
 Daniel Kaukinen: Project Lead
 
+Michael Scott
+1: Website R&D
+2: Advertisement - Fitness Area
+3: Advertisement - Diving
+
 Tanner van Teeffelen: 1. Radio Scripts - if we don't get anyone to hear about it in the first place, then the entire company is a bust
                       2. HR and Hiring - with this many sections, you'll need someone or a small department to sort through applications and sort out employee issues
                       3. Minor web section developer - maybe not major changes, but little changes here and there to keep it updated
