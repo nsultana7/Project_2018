@@ -1,2 +1,8 @@
 Daniel Kaukinen: Project Lead
 Matthew Amodeo: 1 - Cafeteria 2 - R&D 3 - Energy generation
+Joshua Wentzell: 1st Advertisements-Radio scripts to get users into the facilities; 2nd Documentation-implementation; 3rd Advertisements-Posters for employees and users 
+Simeon Davenport
+1. Cafeteria
+2. Facility
+3. Alternative energy/heat generation
+
