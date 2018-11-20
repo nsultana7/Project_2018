@@ -1,5 +1,10 @@
 Daniel Kaukinen: Project Lead
 
+Ngoc Minh Duong: 
+1. Advertisements: Poster.
+2. Website.
+3. Employees and Users Database. 
+
 Michael Scott
 1: Website R&D
 2: Advertisement - Fitness Area
