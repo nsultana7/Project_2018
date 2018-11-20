@@ -1,5 +1,10 @@
 Daniel Kaukinen: Project Lead
 
+Byounghyun Oh: Team member
+  1) Buffet style cafeteria : Documentation
+  2) Energy providing: Documentation
+  3) Scuba diving club: Website
+  
 Joshua Maki
   1: Waterpark Resort in Hotel
   2: Large Music Center w/ Performance Stage
