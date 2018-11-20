@@ -1,5 +1,10 @@
 Daniel Kaukinen: Project Lead
 
+Joshua Maki
+  1: Waterpark Resort in Hotel
+  2: Large Music Center w/ Performance Stage
+  3: Recreational Obstacle Course
+
 Blair Cox: Student - 1. Hydroponics/Aquaponics 2. LEED certification 3. Consumer level, ATP based water test kits using solid state silicon photomultiplier technology.
 
 Brandan Rutter
@@ -21,6 +26,6 @@ Matthew Amodeo: 1 - Cafeteria 2 - R&D 3 - Energy generation
 Joshua Wentzell: 1st Advertisements-Radio scripts to get users into the facilities; 2nd Documentation-implementation; 3rd Advertisements-Posters for employees and users 
 
 Simeon Davenport
-1. Cafeteria
-2. Facility
-3. Alternative energy/heat generation
+  1. Cafeteria
+  2. Facility
+  3. Alternative energy/heat generation
