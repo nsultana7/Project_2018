@@ -1,5 +1,10 @@
 Daniel Kaukinen: Project Lead
 
+Kaitlyn Dennison: 
+1. Advertising - Commercial and professional pitch presentations
+2. Food connoisseur and list of buffet/consumables  
+3. Database on all users and employees, documentation of users. Security.
+
 Byounghyun Oh: Team member
   1) Buffet style cafeteria : Documentation
   2) Energy providing: Documentation
